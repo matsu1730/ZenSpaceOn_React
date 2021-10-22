@@ -1,4 +1,4 @@
-# Projeto ZenSpaceOn
+# Projeto ZenSpaceOn - React
 
 ## Objetivo
 Projeto para conectar pessoas á psicólogos de uma forma mais democrática, por meio de agendamentos feitos pela nossa plataforma.
